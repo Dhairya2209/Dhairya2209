@@ -11,10 +11,10 @@
 <!--Start Intro-->               
 <p align="left">I am a passionate Full MERN stack Web Developer with keen interest in Robotics </p>
 
-✨ Lifelong learner :)
-🌱 Continuously expanding my knowledge, I see every day as a chance to learn something new.
-❤ Actively contributing to Open Source projects.
-💻 Check out my [Portfolio](in progress) to learn more about me..
+- ✨ Lifelong learner :)
+- 🌱 Continuously expanding my knowledge, I see every day as a chance to learn something new.
+- ❤ Actively contributing to Open Source projects.
+- 💻 Check out my [Portfolio](in progress) to learn more about me..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
