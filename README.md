@@ -14,7 +14,7 @@
 - ✨ Lifelong learner :)
 - 🌱 Continuously expanding my knowledge, I see every day as a chance to learn something new.
 - ❤ Actively contributing to Open Source projects.
-- 💻 Check out my [Portfolio](in progress) to learn more about me..
+- 💻 Check out my [Portfolio](https://dhairya-portfolio-omega.vercel.app/)to learn more about me..
 <!--End Intro-->
 
 <!--Profile Count Badge-->
